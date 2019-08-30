@@ -9,14 +9,25 @@ Project 0 Getting Started
 
 ## README
 
-### Packages:
-![](images/visual1a.png) ![](images/visual2.png)
-
 ### Compute Capability of CUDA-compatible GPU:
-GeForce GTX 1070 - Capability 6.1
+GeForce GTX 1050 Ti - Capability 6.1
 
-![](images/cuda-compatible.PNG)
+![](images/version.png)
 
 ### WebGL:
-![](images/webGL.png)
+![](images/webgl.png)
 
+### Modified Triangle:
+![](images/dxr-mod.png)
+
+### Cuda Code Modification:
+![](images/name-modified.PNG)
+
+### Timeline:
+![](images/timeline.png)
+
+### Autos Window:
+![](images/autos.png)
+
+### Warp Window:
+![](images/warpinfo2.png)
