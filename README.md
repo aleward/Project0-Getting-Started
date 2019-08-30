@@ -15,7 +15,7 @@ GeForce GTX 1050 Ti - Capability 6.1
 ![](images/version.png)
 
 ### WebGL:
-![](images/webGL.png)
+![](images/webgl.png)
 
 ### Modified Triangle:
 ![](images/dxr-mod.png)
