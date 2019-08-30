@@ -1,0 +1,12 @@
+﻿  Building NVCC (Device) object CMakeFiles/cis565_getting_started.dir/src/Debug/cis565_getting_started_generated_kernel.cu.obj
+  -- Removing D:/Ward/Project0-Getting-Started/build/CMakeFiles/cis565_getting_started.dir/src/Debug/cis565_getting_started_generated_kernel.cu.obj
+  "C:/Program Files/CMake/bin/cmake.exe" -E remove D:/Ward/Project0-Getting-Started/build/CMakeFiles/cis565_getting_started.dir/src/Debug/cis565_getting_started_generated_kernel.cu.obj
+  -- Generating dependency file: D:/Ward/Project0-Getting-Started/build/CMakeFiles/cis565_getting_started.dir/src/cis565_getting_started_generated_kernel.cu.obj.NVCC-depend
+  "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.1/bin/nvcc.exe" -M -D__CUDACC__ D:/Ward/Project0-Getting-Started/cuda-getting-started/src/kernel.cu -o D:/Ward/Project0-Getting-Started/build/CMakeFiles/cis565_getting_started.dir/src/cis565_getting_started_generated_kernel.cu.obj.NVCC-depend -ccbin "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx86/arm64/cl.exe" -m64 -DCUDA_COMPUTE_30 -DCUDA_COMPUTE_50 -DCUDA_COMPUTE_60 -DCUDA_COMPUTE_70 -DGLEW_STATIC -Xcompiler ,\"/DWIN32\",\"/D_WINDOWS\",\"/W3\",\"/MDd\",\"/Zi\",\"/Ob0\",\"/Od\" -gencode arch=compute_30,code=sm_30 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_70,code=sm_70 -g -G -DNVCC "-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.1/include" -ID:/Ward/Project0-Getting-Started/cuda-getting-started/external/include
+  nvcc fatal   : Could not open output file '%USERPROFILE/tmpxft_00000cdc_00000000'
+  CMake Error at cis565_getting_started_generated_kernel.cu.obj.Debug.cmake:219 (message):
+    Error generating
+    D:/Ward/Project0-Getting-Started/build/CMakeFiles/cis565_getting_started.dir/src/Debug/cis565_getting_started_generated_kernel.cu.obj
+  
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(209,5): error MSB6006: "cmd.exe" exited with code 1.

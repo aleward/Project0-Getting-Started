@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include <GL/glew.h>
+#include <./external/include/GL/glew.h>
 
 namespace glslUtility {
     GLuint createDefaultProgram(const char *attributeLocations[], GLuint numberOfLocations);

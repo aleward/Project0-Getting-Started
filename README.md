@@ -9,7 +9,7 @@ Project 0 Getting Started
 
 ## README
 
-### Packages
+### Packages:
 ![](images/visual1a.png) ![](images/visual2.png)
 
 ### Compute Capability of CUDA-compatible GPU:
@@ -17,6 +17,6 @@ GeForce GTX 1070 - Capability 6.1
 
 ![](images/cuda-compatible.PNG)
 
-### WebGL
+### WebGL:
 ![](images/webGL.png)
 
