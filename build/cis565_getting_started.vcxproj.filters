@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\glslUtility.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\glslUtility.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\kernel.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\main.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\src\kernel.cu">
+      <Filter>Sources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\cuda-getting-started\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\aleks\OneDrive\Documents\Alexis\CIS565\Project0-Getting-Started\build\CMakeFiles\cis565_getting_started.dir\src\$(Configuration)\cis565_getting_started_generated_kernel.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{5FAC5C47-4DB9-3383-ACDF-978F9CD93D8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{EE11DD38-F734-379F-9142-953C3C655D24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{A034E8EA-80B7-3EB0-A9E7-FBC760F761B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
