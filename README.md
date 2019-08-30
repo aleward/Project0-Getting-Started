@@ -19,3 +19,15 @@ GeForce GTX 1050 Ti - Capability 6.1
 
 ### Modified Triangle:
 ![](images/dxr-mod.png)
+
+### Cuda Code Modification:
+![](images/name-modified.PNG)
+
+### Timeline:
+![](images/timeline.png)
+
+### Autos Window:
+![](images/autos.png)
+
+### Warp Window:
+![](images/warpinfo2.png)
